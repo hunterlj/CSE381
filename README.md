@@ -1,2 +1,2 @@
 # CSE381
-Collection of Assignments for Systems 2 class.
+Collection of Assignments from Operating Systems 2 class.
